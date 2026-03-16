@@ -1,0 +1,9 @@
+body{
+    background-color: aliceblue;
+    align-items: center;
+    text-align: center;
+}
+.container{
+    background-color: aqua;
+    width: 100vw;
+}
